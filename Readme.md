@@ -72,6 +72,14 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   |Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
   | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
 
+ ### **Participation in Funded Scientific Projects[^2]**
+| Role     | Title         | Type of funding         | Institution                           | Start Date| End Date |
+|----------|---------------|-------------------------|---------------------------------------|-----------|----------|
+| Research assistant | La vida en pausa: metabolismo y evolución de la diapausa reproductiva en Drosophila | Grant PICT 2018-03716 | 2020  | 2022  |
+| Ph.D. fellow | Mapeo por NGS del período refractario de la hembra de Drosophila, un carácter blanco de la selección sexual postcopulatoria | Grant PICT 2016/0253 | 2017  | 2020  |
+| Ph.D. fellow | Mapeo de caracteres complejos por introgresión fenotípica selectiva combinada con secuenciación paralela masiva: el caso de la morfología genital en Drosophila | Grant PICT 2013/1121  | 2014   | 2017  |
+[^2]: All grants were funded by the Fondo para la Investigación Científica y Tecnológica ([FONCYT](https://www.argentina.gob.ar/ciencia/agencia/fondo-para-la-investigacion-cientifica-y-tecnologica-foncyt)).
+
  ### **Technical Skills**
 
 #### Experince working in omic-related fields:
