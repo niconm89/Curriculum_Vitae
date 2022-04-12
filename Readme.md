@@ -47,8 +47,11 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  + Parra RG*, Defelipe LA, Guzovsky AB, Monzon AM, Cravero F, Mancini E, **Moreyra N**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NN, Gonzalez GA, Orts F, Stocchi N, Hasenahuer MA, Teppa E, Zea DJ, Palopoli N. (2016) Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. PeerJ Preprints 4:e2494v1.
 
  ### **Awards**
- + 2019. Travel Fellowship of the European Molecular Biology Organization (EMBO)
-  Description: fellowship to assist to the EMBO Practical Course “Bioinformatics and Genome Analyses”.
+  | Description                | Funded by                        | Place                                      | Start Date| End Date |
+  |----------------------------|----------------------------------|--------------------------------------------|-----------|----------|
+  | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  2015          | 2018       |
+ + 2019.  of the European Molecular Biology Organization (EMBO)
+  Description: fellowship to assist to 
   Place: Fondazione Edmund Mach (FEM), San Michelle all'Adige, Trento, Italy.
  + 2016. Travel Fellowship Award of the European Conference on Computational Biology to assist to the ECCB2016. 
   Place: The Hague, Netherlands. 
