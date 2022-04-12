@@ -25,7 +25,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   |-------------------------------------------------------------------|----------------------------|------------------------------|------------|----------|
 | BSc. in Bioinformatics | Facultdad de Ingeniería (FI), Universidad Nacional de Entre Ríos (UNER). Oro Verde, Entre Rios, Argentina.            | Deconvolution of ELISPOT T-cell responses against HIV using immunoinformatic screening methods. |   2008   |   2014   |
 | Ph.D. in Biological Sciences | Facultad de Ciencias Exactas y Naturales (FCEyN), Universidad de Buenos Aires (UBA). Ciudad de Buenos Aires, Argentina. | Genome assembly and comparative analysis of the species D. borborema, D. antonietae y D. koepferae (Drosophila buzzatii cluster, repleta group).  |   2015   |   2020   |
-| Postdoctoral Studies        | UBA-CONICET      | 2021          | Present      |
+| Postdoctoral Studies        | Instituto de Ecología, Genética y Evolución de Buenos Aires ([IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/), UBA-CONICET) and Fundación para el Estudio de Especies Envasivas ([FuEDEI](https://fuedei.org/)). Ciudad de Buenos Aires, Argentina.    | Comparative genomics of cactophilic moths of the genus Cactoblastis.  | 2021          | Present      |
 
   
  ### **Other background**
