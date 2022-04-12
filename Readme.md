@@ -43,9 +43,9 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Professor | Bioinformatics (undergraduate course) | 2nd | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)) | 2018          | Present  |
 | Professor | Health information systems (Technical and tertiary education) | Annual | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
 | Professor | Informatics (Technical and tertiary education) | 1st | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
-| Invited teacher | Evolutionary and Populational Genomics (undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2018          | 2020  |
+| Invited teacher | Evolutionary and Populational Genomics (post- and undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2018          | 2020  |
 | Teacher | Programming in Python for Biology (workshop for undergraduate students) | 2nd (32hrs) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/))   | 2018          | 2020  |
-| Invited teacher | Human Population Genomics and diseases (graduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)  | 2016          | 2017  |
+| Invited teacher | Human Population Genomics and diseases (postgraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)  | 2016          | 2017  |
 | Mentor | Student-to-student mentoring | Annual | Facultad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/))   | 2018          | 2020  |
 
  ### **Publications, preprints and drafts**
@@ -79,6 +79,17 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Ph.D. fellow | Mapeo por NGS del período refractario de la hembra de Drosophila, un carácter blanco de la selección sexual postcopulatoria | Grant PICT 2016/0253 | 2017  | 2020  |
 | Ph.D. fellow | Mapeo de caracteres complejos por introgresión fenotípica selectiva combinada con secuenciación paralela masiva: el caso de la morfología genital en Drosophila | Grant PICT 2013/1121  | 2014   | 2017  |
 [^2]: All grants were funded by the Fondo para la Investigación Científica y Tecnológica ([FONCYT](https://www.argentina.gob.ar/ciencia/agencia/fondo-para-la-investigacion-cientifica-y-tecnologica-foncyt)).
+
+ ### **Teaching Experience**
+| Course        | Duration         | Institution                           | Date |
+|---------------|------------------|---------------------------------------|------|
+| Programming in Python | 4 months (120 hrs) | Universidad de San Martin ([UNSAM](https://www.unsam.edu.ar/)) | 2020 |
+| Professor | Health information systems (Technical and tertiary education) | Annual | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
+| Professor | Informatics (Technical and tertiary education) | 1st | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
+| Invited teacher | Evolutionary and Populational Genomics (post- and undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2018          | 2020  |
+| Teacher | Programming in Python for Biology (workshop for undergraduate students) | 2nd (32hrs) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/))   | 2018          | 2020  |
+| Invited teacher | Human Population Genomics and diseases (postgraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)  | 2016          | 2017  |
+| Mentor | Student-to-student mentoring | Annual | Facultad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/))   | 2018          | 2020  |
 
  ### **Technical Skills**
 
