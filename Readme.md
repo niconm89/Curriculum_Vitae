@@ -31,6 +31,7 @@
 + [GitHub](https://github.com/niconm89)
 + [Google Academics](https://scholar.google.com/citations?hl=es&user=2ygu-Z8AAAAJ)
 + [ORCID](https://orcid.org/0000-0003-0451-2399)
++ [ResearchGate](https://www.researchgate.net/profile/Nicolas-Moreyra)
 
 ### **About me**
 
