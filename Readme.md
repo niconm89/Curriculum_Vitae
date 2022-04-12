@@ -58,12 +58,12 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  + Parra RG*, Defelipe LA, Guzovsky AB, Monzon AM, Cravero F, Mancini E, **Moreyra N**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NN, Gonzalez GA, Orts F, Stocchi N, Hasenahuer MA, Teppa E, Zea DJ, Palopoli N. (2016) Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. PeerJ Preprints 4:e2494v1.
 
 ### **Evaluation[^1]**
-  | Description                | Awarded by                        | Place                                      | Date |
-  |----------------------------|-----------------------------------|--------------------------------------------|------|
-  | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
-  |Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
-  | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
-  |[^1]: By April 2022, all the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
+  | Student                | Thesis tile                         | Date |
+  |------------------------|-------------------------------------|------|
+  | Mateo Gallia |  Estudio metagenómico de los microorganismos asociados a la digestión anaerobia de efluentes y de sus interacciones | 2019 |
+  | Clementina Penna | Estudios evolutivos de las proteínas de interacción entre gametas del género Panthera | 2016  |
+  | Nahuel Abel Escobedo | Caracterización de cambios conformacionales en proteínas homoligoméricas | 2013 |
+[^1]: By April 2022, all the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
 
  ### **Awards**
   | Description                | Awarded by                        | Place                                      | Date |
