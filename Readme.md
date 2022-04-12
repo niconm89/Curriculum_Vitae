@@ -37,6 +37,15 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Ph.D. Scholarship (Type II) - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) | 2018          | 2021     |
 | Postdoctoral Scholarship - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/) | 2021          | 2024     |
 
+ ### **Teaching Experience**
+| Position  | Subject/Course                    | University                              | Start Date| End Date |
+|-----------|-----------------------------------|-----------------------------------------|-----------|----------|
+| Ph.D. scholarship (Type I) - Agencia Nacional de Promoción Científica y Tecnológica ([ANPCyT](https://www.argentina.gob.ar/ciencia/agencia)) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba) | 2015          | 2018       |
+| Short-term scholarship of DEANN Project “Marie Curie Actions - International Research Staff Exchange Scheme (IRSES)” financed by the European Commision. | Identification and description of transponsable elements families in stressful cactophilic Drosophila genomes. | [Gonzalez Lab](https://www.biologiaevolutiva.org/gonzalez_lab/), Institut de Biologia Evolutiva (IBE), Barcelona, Cataluña, Spain.          | 2016          | 2016       |
+| Short-term Internship - Consejo Nacional de Investigaciones Científicas y Técnicas ([CONICET](https://www.conicet.gov.ar/)) and [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Collaboration under the project “Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster”. |  [Matzkin Lab](https://matzkinlab.org/), University of Arizona (UA), Tucson, United States (US)  | 2018          | 2018     |
+| Ph.D. Scholarship (Type II) - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) | 2018          | 2021     |
+| Postdoctoral Scholarship - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/) | 2021          | 2024     |
+
  ### **Publications, preprints and drafts**
  + Rondón JJ*, Pisarenco VA, Rozas J, **Moreyra NN**, Hurtado J, Hasson E (2022). Evolution of the Odorant-Binding Protein gene family in Drosophila. In preparation to be submitted to [Frontiers](https://www.frontiersin.org/research-topics/27610/diptera-chemical-ecology-in-the-genomic-era-from-genes-to-behavior?j=1847727&sfmc_sub=337759798&l=94_HTML&u=48422372&mid=7236711&jb=51).
  + Mensch J*, **Moreyra NN***, Hasson E (2022). Transcriptional responses of immature and mature females acclimated under the same low temperature provides insights into cold tolerance of cactophilic Drosophila buzzatii. In preparation to be submitted to [Genes](https://www.mdpi.com/journal/genes/special_issues/Arthropods_Evolution).
@@ -51,7 +60,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   |----------------------------|-----------------------------------|--------------------------------------------|------|
   | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
   |Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
-  | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | -  | 2013 |
+  | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
 
  ### **Technical Skills**
 
