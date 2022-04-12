@@ -155,3 +155,9 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   
 ### Other Knowledge:
   + Collaborative work on GitHub and GitLab
+
+## **Personal information**
+  + 2014 – Present. Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org))
+    Description: groups of students and young researchers in Bioinformatics and Computational Biology.
+    It depends on the International Society of Computational Biology ([ISCB](https://www.iscb.org/)) Student Council ([SC](https://iscbsc.org/)).
+    Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016);  Collaborator (2014 – 2015).
