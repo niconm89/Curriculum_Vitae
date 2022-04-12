@@ -37,7 +37,16 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Ph.D. Scholarship (Type II) - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) | 2018          | 2021     |
 | Postdoctoral Scholarship - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/) | 2021          | 2024     |
 
-  ### **Technical Skills**
+ ### **Publications, preprints and drafts**
+ + Rondón JJ*, Pisarenco VA, Rozas J, **Moreyra NN**, Hurtado J, Hasson E (2022). Evolution of the Odorant-Binding Protein gene family in Drosophila. In preparation to be submitted to [Frontiers](https://www.frontiersin.org/research-topics/27610/diptera-chemical-ecology-in-the-genomic-era-from-genes-to-behavior?j=1847727&sfmc_sub=337759798&l=94_HTML&u=48422372&mid=7236711&jb=51).
+ + Mensch J*, **Moreyra NN***, Hasson E (2022). Transcriptional responses of immature and mature females acclimated under the same low temperature provides insights into cold tolerance of cactophilic Drosophila buzzatii. In preparation to be submitted to [Genes](https://www.mdpi.com/journal/genes/special_issues/Arthropods_Evolution).
+ + **Moreyra NN***, Almeida F, Allan C, Frankel N, Matzkin L, Hasson E (2022). Phylogenomics provides insights into the evolution of cactophily and host plant shifts adaptation in Drosophila. In preparation to be submitted to [Elife](https://elifesciences.org/).
+ + **Moreyra NN***, Mensch J, Hurtado J, Almeida F, Laprida C, Hasson E (2019). What does mitogenomics tell us about the evolutionary history of the Drosophila buzzatii cluster (repleta group)? PLoS ONE 14(11): e0220676. https://doi.org/10.1371/journal.pone.0220676.
+ + Shome S*, Parra RG, Fatima N, Monzon AM, Cuypers B, Moosa Y, Coimbra NDR, Assis J, Giner-Delgado C, Dönertaş HM, Cuesta-Astroz Y, Saarunya G, Allali I, Gupta S, Srivastava A, Kalsan M, Valdivia C, J Olguin-Orellana G, Papadimitriou S, Parisi D, Kristensen NP, Rib L, Guebila MB, Bauer E, Zaffaroni G, Bekkar A, Ashano E, Paladin L, Necci M, **Moreyra NN**, Rydén M, Villalobos-Solís J, Papadopoulos N, Rafael C, Karakulak T, Kaya Y, Gladbach Y, Dhanda SK, Šoštarić N, Alex A, DeBlasio D, Rahman F. (2019). Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers. F1000Research, 8, ISCB Comm J-1574. https://doi.org/10.12688/f1000research.20408.1.
+ + Fiorella Cravero*, Lionel Uran Landaburu, **Nicolás N. Moreyra**, Emilio Fenoy, Carla L Padilla Franzotti, Esteban Lanzarotti, R. Gonzalo Parra*, Nicolas Palopoli*, Alexander M. Monzon* (2018) 2nd Argentine Symposium of Young Bioinformatics Researchers (2SAJIB) organized by the ISCB-SC RSG-Argentina. PeerJ Preprints 6:e3504v1.
+ + Parra RG*, Defelipe LA, Guzovsky AB, Monzon AM, Cravero F, Mancini E, **Moreyra N**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NN, Gonzalez GA, Orts F, Stocchi N, Hasenahuer MA, Teppa E, Zea DJ, Palopoli N. (2016) Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. PeerJ Preprints 4:e2494v1.
+
+ ### **Technical Skills**
 
 #### Experince working in omic-related fields:
   + UNIX/Linux systems user
