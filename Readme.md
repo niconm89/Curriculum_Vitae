@@ -6,8 +6,8 @@
 
 + Date of birth: October 4th, 1989
 + Nationality: Argentinean
-+ E-Mail Personal: [niconm89@gmail.com](mailto:niconm89@gmail.com)
-+ E-Mail Laboral: [nmoreyra@ege.fcen.uba.ar](mailto:nmoreyra@ege.fcen.uba.ar)
++ E-Mail (Personal): [niconm89@gmail.com](mailto:niconm89@gmail.com)
++ E-Mail (Work): [nmoreyra@ege.fcen.uba.ar](mailto:nmoreyra@ege.fcen.uba.ar)
   
 ### **Social/Scientific Networks**
 
@@ -57,6 +57,14 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  + Fiorella Cravero*, Lionel Uran Landaburu, **Nicolás N. Moreyra**, Emilio Fenoy, Carla L Padilla Franzotti, Esteban Lanzarotti, R. Gonzalo Parra*, Nicolas Palopoli*, Alexander M. Monzon* (2018) 2nd Argentine Symposium of Young Bioinformatics Researchers (2SAJIB) organized by the ISCB-SC RSG-Argentina. PeerJ Preprints 6:e3504v1.
  + Parra RG*, Defelipe LA, Guzovsky AB, Monzon AM, Cravero F, Mancini E, **Moreyra N**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NN, Gonzalez GA, Orts F, Stocchi N, Hasenahuer MA, Teppa E, Zea DJ, Palopoli N. (2016) Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. PeerJ Preprints 4:e2494v1.
 
+### **Evaluation[^1]**
+  | Description                | Awarded by                        | Place                                      | Date |
+  |----------------------------|-----------------------------------|--------------------------------------------|------|
+  | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
+  |Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
+  | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
+1 All the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
+
  ### **Awards**
   | Description                | Awarded by                        | Place                                      | Date |
   |----------------------------|-----------------------------------|--------------------------------------------|------|
@@ -92,24 +100,8 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   
 #### Other Knowledge:
   + Collaborative work on GitHub and GitLab
-  
 
-## **Work Experience**
-
-+ Maths and English private teacher
-+ National and regional fencing referee
-+ Youth centre monitor
-+ Radio advertisements marker at ArceMedia
-+ Web designer y Web master for:
-    + [Pepu Alcalde](http://pepualcalde.org/)
-    + [Tecrima](https://www.tecrima.com/)
-+ Waiter at Covanegra Restaurant(Capdepera, Mallorca)
-+ Software Engineer Intern at Avanade S.L.U: Jan. 2020 - May. 2020
-    + During the internship it was mostly training in web technologies such as AngularJS.
-+ Junior Developer at Aghasa Turis: Jun. 2020 - Present
-    + Currently my functions consist of the development and implementation of web and desktop applications using web technologies such as Node.js, ExpressJS, Vue.js, etc...
-
-## **Other Info**
+## **Aptitudes and abilities**
 
  - Eagerness to learn and face new challenges
  - Versatil and tenacious
