@@ -28,11 +28,13 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Postdoctoral Studies        | Instituto de Ecología, Genética y Evolución de Buenos Aires ([IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/), UBA-CONICET) and Fundación para el Estudio de Especies Envasivas ([FuEDEI](https://fuedei.org/)). Ciudad de Buenos Aires, Argentina.    | Comparative genomics of cactophilic moths of the genus Cactoblastis.  | 2021          | Present      |
 
   
- ### **Other background**
-   | Name                                                              | School                    | Start Date | End Date |
-|---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| First Certificate of English | British Council          | 2013          | 2016       |
-| French B1 Level                                              | Escuela Oficial de Idiomas | 2013          | 2015       |
+ ### **Research Scholarships**
+   | Description                                  | Institution                              | Director                       | Start Date | End Date |
+|-------------------------------------------------|------------------------------------------|--------------------------------|------------|----------|
+| Ph.D. scholarship (Type I) | Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT) | Escuela Oficial de Idiomas | 2013          | 2015       |
+| Short-term scholarship of DEANN Project “Marie Curie Actions - International Research Staff Exchange Scheme (IRSES)” financed by the European Commision. | Identification and description of transponsable elements families in stressful
+cactophilic Drosophila genomes. | [Gonzalez Lab](www.biologiaevolutiva.org/gonzalez_lab), Institut de Biologia Evolutiva (IBE), Barcelona, Cataluña, Spain.          | 2016          | 2016       |
+
 | Regional Fencing Referee        | Federación Madrileña de esgrima      | 2015          | 2015     |
 | National Fencing Referee | Real Federación Española de esgrima        | 2016          | 2016       |
 
