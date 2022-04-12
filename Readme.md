@@ -2,6 +2,22 @@
 
   <img src="imgs/photo_myself.jpeg" style="width: 309px; height: 431px; position: center" >
 
+## Index
+  + [Personal Information](https://github.com/niconm89/Curriculum_Vitae#personal-information)
+  + [Languages](https://github.com/niconm89/Curriculum_Vitae#languages)
+  + [Education](https://github.com/niconm89/Curriculum_Vitae#education)
+  + [Research Scholarships](https://github.com/niconm89/Curriculum_Vitae#research-scholarships)
+  + [Teaching Experience](https://github.com/niconm89/Curriculum_Vitae#teaching-experience)
+  + [Publications, preprints and drafts](https://github.com/niconm89/Curriculum_Vitae#publications-preprints-and-drafts)
+  + [Evaluation](https://github.com/niconm89/Curriculum_Vitae#evaluation1)
+  + [Awards](https://github.com/niconm89/Curriculum_Vitae#awards)
+  + [Participation in Scientific Projects](https://github.com/niconm89/Curriculum_Vitae#participation-in-funded-scientific-projects2)
+  + [Postgraduate Courses](https://github.com/niconm89/Curriculum_Vitae#postgraduate-courses)
+  + [Technical Skills](https://github.com/niconm89/Curriculum_Vitae#technical-skills)
+  + [Educational Organizations and Voluntary Work]()
+  + [Participation in Conferences and Symposia]()
+  + [Memberships]() 
+
 ## **Personal information**
 
 + Date of birth: October 4th, 1989
@@ -20,13 +36,24 @@
 
 I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to evolutionary biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological questions.
 
+### **Aptitudes and abilities**
+
+ - Empathic and sensitive
+ - Sociable and Communicative
+ - Flexible (versatility)
+ - Tenacious, determined and dedicated
+ - Pro-active
+ - Team player and self-sufficient
+ - Eagerness to learn and face new challenges
+ 
+
  ## **Languages**
  + Spanish as a native language.
  + English in upper-intermediate level (B2).
     - Speaking and listening clases. An hour per week (Present).
-    - Taller de Escritura Independiente (Independent Writing Workshop for the TOEFL exam). [Departamento de Idiomas](https://campus.exactas.uba.ar/course/index.php?categoryid=27),[FCEyN](https://exactas.uba.ar/),[UBA](https://www.uba.ar/). Duration: 6 classes of 3 hs, 2021.
-    - Taller de Presentaciones Orales (Oral Presentations Workshop). [Departamento de Idiomas](https://campus.exactas.uba.ar/course/index.php?categoryid=27),[FCEyN](https://exactas.uba.ar/),[UBA](https://www.uba.ar/). Duration: 4 classes of 2 hs, 2021. 
-    - English courses of levels 3 to 7 (upper-intermediate). Place: [Centro de Idiomas de la Universidad Nacional del Litoral](https://www.unl.edu.ar/idiomas/#:~:text=El%20Centro%20de%20Idiomas%20posee,y%20maestr%C3%ADas%20de%20la%20UNL). From March 2014 to March 2015.
+    - Taller de Escritura Independiente (Independent Writing Workshop for the TOEFL exam). [Departamento de Idiomas](https://campus.exactas.uba.ar/course/index.php?categoryid=27), [FCEyN](https://exactas.uba.ar/), [UBA](https://www.uba.ar/). Duration: 6 classes of 3 hs, 2021.
+    - Taller de Presentaciones Orales (Oral Presentations Workshop). [Departamento de Idiomas](https://campus.exactas.uba.ar/course/index.php?categoryid=27), [FCEyN](https://exactas.uba.ar/), [UBA](https://www.uba.ar/). Duration: 4 classes of 2 hs, 2021. 
+    - English courses of levels 3 to 7 (upper-intermediate). [Centro de Idiomas de la Universidad Nacional del Litoral](https://www.unl.edu.ar/idiomas/#:~:text=El%20Centro%20de%20Idiomas%20posee,y%20maestr%C3%ADas%20de%20la%20UNL). From March 2014 to March 2015.
 
  ## **Education**
   | Name                                     | Institution   |    Project title             | Start Date | End Date |
@@ -128,14 +155,3 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   
 ### Other Knowledge:
   + Collaborative work on GitHub and GitLab
-
- ## **Aptitudes and abilities**
-
- - Eagerness to learn and face new challenges
- - Versatil and tenacious
- - Ability to work in teams as well as to carry out autonomous projects
- - Communication and social skills
- - Commitment, responsibility and determination to my duties
- - Pro-active
- - Sociable
- - Ability to create practical solutions
