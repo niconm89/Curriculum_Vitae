@@ -22,11 +22,10 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 
 ## **Education**
   | Name                                                              | Institution                |    Project title             | Start Date | End Date |
-  |-------------------------------------------------------------------|----------------------------|------------------------------|------------|----------|
-| BSc. in Bioinformatics | Facultdad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/)). Oro Verde, Entre Rios, Argentina.  | Deconvolution of ELISPOT T-cell responses against HIV using immunoinformatic screening methods. |   2008   |   2014   |
-| Ph.D. in Biological Sciences | Facultad de Ciencias Exactas y Naturales ([FCEyN](https://exactas.uba.ar/)), Universidad de Buenos Aires ([UBA](https://www.uba.ar/)). Ciudad de Buenos Aires, Argentina. | Genome assembly and comparative analysis of the species D. borborema, D. antonietae y D. koepferae (Drosophila buzzatii cluster, repleta group).  |   2015   |   2020   |
+  |-------------------------------------------------------------------|----------------------------------------------------------|------------|----------|
 | Postdoctoral Studies        | Instituto de Ecología, Genética y Evolución de Buenos Aires ([IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/), UBA-CONICET) and Fundación para el Estudio de Especies Envasivas ([FuEDEI](https://fuedei.org/)). Ciudad de Buenos Aires, Argentina.    | Comparative genomics of cactophilic moths of the genus Cactoblastis.  | 2021          | Present      |
-
+| Ph.D. in Biological Sciences | Facultad de Ciencias Exactas y Naturales ([FCEyN](https://exactas.uba.ar/)), Universidad de Buenos Aires ([UBA](https://www.uba.ar/)). Ciudad de Buenos Aires, Argentina. | Genome assembly and comparative analysis of the species D. borborema, D. antonietae y D. koepferae (Drosophila buzzatii cluster, repleta group).  |   2015   |   2020   |
+| BSc. in Bioinformatics | Facultdad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/)). Oro Verde, Entre Rios, Argentina.  | Deconvolution of ELISPOT T-cell responses against HIV using immunoinformatic screening methods. |   2008   |   2014   |
   
  ### **Research Scholarships**
   | Description + Funding  | Project title                    | Place of Work                              | Start Date| End Date |
@@ -89,6 +88,9 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | [Advanced Genomic Analysis: de novo genome assembly](https://inta.gob.ar/eventos/analisis-genomico-avanzado-ensamblado-de-novo) | 4 days (32 hs) | Instituto Nacional de Tecnología Agropecuaria ([INTA](https://inta.gob.ar/)) and the Earlham Institute ([EI](https://www.earlham.ac.uk/))  | INTA Castelar, William C. Morris, Provincia de Buenos Aires, Argentina | December 18 to 21, 2017 |
 | [Genomic Tools and Bioinformatic Analysis](https://www.fbmc.fcen.uba.ar/materias/genetica-humana/) | 3 days (24hs) | [Ornithology Congress of the Americas](http://www.afonet.org/2017iguazu/site/?lang=es) and the [Harvad University](https://www.harvard.edu/) | Instituto Misionero de Biodiversidad ([ImiBio](https://imibio.misiones.gob.ar/)), Puerto Iguazú, Provincia de Misiones, Argentina | August 6 to 8, 2017  |
 | [Human genetics](https://www.fbmc.fcen.uba.ar/materias/genetica-humana/) | 10 days (80hs) | Departamento de Fisiología, Biología Molecular y Celular ([FBMC](https://www.fbmc.fcen.uba.ar/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | July 3 to 14, 2017  |
+| [Data Science in R: statistical basis](https://ic.fcen.uba.ar/actividades-academicas/formacion/cursos/ciencia-de-datos-con-r-fundamentos-de-estadistica?archive) | 6 days (18hs) | Instituto del Cálculo ([IC](https://ic.fcen.uba.ar/home)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to 16, 2017  |
+| [Genetics and Molecular Ecology](https://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-primer-cuatrimestre/materias-del-area-genetica-y-evolucion/genetica-ii/) | 4 months (120hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to June 16, 2016  |
+| [Human Population Genomics and Diseases](https://www.genevopop.net/) | 4 months (90hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | August 1 to November 16, 2015  |
 
 
 
