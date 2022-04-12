@@ -46,6 +46,15 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  + Fiorella Cravero*, Lionel Uran Landaburu, **Nicolás N. Moreyra**, Emilio Fenoy, Carla L Padilla Franzotti, Esteban Lanzarotti, R. Gonzalo Parra*, Nicolas Palopoli*, Alexander M. Monzon* (2018) 2nd Argentine Symposium of Young Bioinformatics Researchers (2SAJIB) organized by the ISCB-SC RSG-Argentina. PeerJ Preprints 6:e3504v1.
  + Parra RG*, Defelipe LA, Guzovsky AB, Monzon AM, Cravero F, Mancini E, **Moreyra N**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NN, Gonzalez GA, Orts F, Stocchi N, Hasenahuer MA, Teppa E, Zea DJ, Palopoli N. (2016) Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. PeerJ Preprints 4:e2494v1.
 
+ ### **Awards**
+ + 2019. Travel Fellowship of the European Molecular Biology Organization (EMBO)
+  Description: fellowship to assist to the EMBO Practical Course “Bioinformatics and Genome Analyses”.
+  Place: Fondazione Edmund Mach (FEM), San Michelle all'Adige, Trento, Italy.
+ + 2016. Travel Fellowship Award of the European Conference on Computational Biology to assist to the ECCB2016. 
+  Place: The Hague, Netherlands. 
+ + 2013. Fellowship Award “Jóvenes Profesionales TICs 2013”. 
+  Project title: Development of a bioinformatic tool for the analysis of eating behavior in different social groups. ANPCyT, Argentina.
+
  ### **Technical Skills**
 
 #### Experince working in omic-related fields:
