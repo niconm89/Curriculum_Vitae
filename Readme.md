@@ -73,8 +73,8 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
 
  ### **Participation in Funded Scientific Projects[^2]**
-| Role     | Title         | Type of funding         | Institution                           | Start Date| End Date |
-|----------|---------------|-------------------------|---------------------------------------|-----------|----------|
+| Role     | Title         | Type of funding         | Start Date| End Date |
+|----------|---------------|-------------------------|-----------|----------|
 | Research assistant | La vida en pausa: metabolismo y evolución de la diapausa reproductiva en Drosophila | Grant PICT 2018-03716 | 2020  | 2022  |
 | Ph.D. fellow | Mapeo por NGS del período refractario de la hembra de Drosophila, un carácter blanco de la selección sexual postcopulatoria | Grant PICT 2016/0253 | 2017  | 2020  |
 | Ph.D. fellow | Mapeo de caracteres complejos por introgresión fenotípica selectiva combinada con secuenciación paralela masiva: el caso de la morfología genital en Drosophila | Grant PICT 2013/1121  | 2014   | 2017  |
