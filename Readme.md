@@ -38,15 +38,15 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Postdoctoral Scholarship - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/) | 2021          | 2024     |
 
  ### **Teaching Experience**
-| Position | Course        | Semester/Duration         | University                           | Start Date| End Date |
-|----------|---------------|---------------------------|--------------------------------------|-----------|----------|
+| Position | Course        | Semester         | Institution                           | Start Date| End Date |
+|----------|---------------|------------------|---------------------------------------|-----------|----------|
 | Professor | Bioinformatics (undergraduate course) | 2nd | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)) | 2018          | Present  |
 | Professor | Health information systems (Technical and tertiary education) | Annual | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
 | Professor | Informatics (Technical and tertiary education) | 1st | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
 | Invited teacher | Evolutionary and Populational Genomics (undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2018          | 2020  |
-| Invited teacher | Evolutionary and Populational Genomics (undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2018          | 2020  |
-| Invited teacher | Human Population Genomics and diseases (graduate course) | 1st (90hrs) | [EGE](https://www.ege.fcen.uba.ar/home/), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2016          | 2017  |
-| Mentor | Student-to-student mentoring | Annual | [FI](http://ingenieria.uner.edu.ar/)-[UNER](https://www.uner.edu.ar/) | 2018  | 2020  |
+| Teacher | Programming in Python for Biology (workshop for undergraduate students) | 2nd (32hrs) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/))   | 2018          | 2020  |
+| Invited teacher | Human Population Genomics and diseases (graduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)  | 2016          | 2017  |
+| Mentor | Student-to-student mentoring | Annual | Facultad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/))   | 2018          | 2020  |
 
  ### **Publications, preprints and drafts**
  + Rondón JJ*, Pisarenco VA, Rozas J, **Moreyra NN**, Hurtado J, Hasson E (2022). Evolution of the Odorant-Binding Protein gene family in Drosophila. In preparation to be submitted to [Frontiers](https://www.frontiersin.org/research-topics/27610/diptera-chemical-ecology-in-the-genomic-era-from-genes-to-behavior?j=1847727&sfmc_sub=337759798&l=94_HTML&u=48422372&mid=7236711&jb=51).
