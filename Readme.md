@@ -91,8 +91,8 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | [Data Science in R: statistical basis](https://ic.fcen.uba.ar/actividades-academicas/formacion/cursos/ciencia-de-datos-con-r-fundamentos-de-estadistica?archive) | 6 days (18hs) | Instituto del Cálculo ([IC](https://ic.fcen.uba.ar/home)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to 16, 2017  |
 | [Genetics and Molecular Ecology](https://www.ege.fcen.uba.ar/academico/materias-de-grado/materias-del-ciclo-superior-primer-cuatrimestre/materias-del-area-genetica-y-evolucion/genetica-ii/) | 4 months (120hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to June 16, 2016  |
 | [Human Population Genomics and Diseases](https://www.genevopop.net/) | 4 months (90hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | August 1 to November 16, 2015  |
-
-
+| [Introduction to Genomic Data Analysis Using HapMap and 1000 Genomes Projects – 4 th Edition](https://www.transmittingscience.com/) | 5 days (40hs) | [Transmitting Science](https://www.transmittingscience.com/)  and the Instituto de Genética
+Veterinaria ([IGEVET](http://www.igevet.gob.ar/)), [CONICET](https://www.conicet.gov.ar/) | La Plata, Provincia de Buenos Aires, Argentina | August 10 to August 14, 2015 |
 
  ### **Technical Skills**
 
