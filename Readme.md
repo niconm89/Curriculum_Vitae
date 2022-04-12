@@ -23,9 +23,8 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 ## **Education**
   | Name                                                              | Project title              |    School                    | Start Date | End Date |
   |-------------------------------------------------------------------|----------------------------|------------------------------|------------|----------|
-| BSc. in Bioinformatics | Facultdad de Ingeniería (FI), Universidad Nacional de Entre Ríos (UNER). Oro Verde, Entre Rios, Argentina.            | Deconvolution of ELISPOT T-cell responses against HIV using immunoinformatic
-screening methods. |   2008          | 2014       |
-| Ph.D. in Biological Sciences                                                | Universidad de Buenos Aires (UBA) | Genome assembly and comparative analysis of the species D. borborema, D. antonietae y D. koepferae (Drosophila buzzatii cluster, repleta group).  |   2015          | 2020       |
+| BSc. in Bioinformatics | Facultdad de Ingeniería (FI), Universidad Nacional de Entre Ríos (UNER). Oro Verde, Entre Rios, Argentina.            | Deconvolution of ELISPOT T-cell responses against HIV using immunoinformatic screening methods. |   2008   |   2014   |
+| Ph.D. in Biological Sciences                                                | Universidad de Buenos Aires (UBA) | Genome assembly and comparative analysis of the species D. borborema, D. antonietae y D. koepferae (Drosophila buzzatii cluster, repleta group).  |   2015   |   2020   |
 | Postdoctoral Studies        | UBA-CONICET      | 2021          | Present      |
 
   
