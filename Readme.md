@@ -16,7 +16,7 @@
   + [Technical Skills](https://github.com/niconm89/Curriculum_Vitae#technical-skills)
   + [Educational Organizations and Voluntary Work](https://github.com/niconm89/Curriculum_Vitae#educational-organizations-and-voluntary-work)
   + [Participation in Conferences and Symposia](https://github.com/niconm89/Curriculum_Vitae#participation-in-conferences-and-symposia)
-  + [Memberships]() 
+  + [Memberships](https://github.com/niconm89/Curriculum_Vitae#memberships) 
 
 ## **Personal information**
 
