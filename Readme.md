@@ -80,11 +80,11 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Ph.D. fellow | Mapeo de caracteres complejos por introgresión fenotípica selectiva combinada con secuenciación paralela masiva: el caso de la morfología genital en Drosophila | Grant PICT 2013/1121  | 2014   | 2017  |
 [^2]: All grants were funded by the Fondo para la Investigación Científica y Tecnológica ([FONCYT](https://www.argentina.gob.ar/ciencia/agencia/fondo-para-la-investigacion-cientifica-y-tecnologica-foncyt)).
 
- ### **Teaching Experience**
-| Course        | Duration         | Institution                           | Date |
-|---------------|------------------|---------------------------------------|------|
-| Programming in Python | 4 months (120 hrs) | Universidad de San Martin ([UNSAM](https://www.unsam.edu.ar/)) | 2020 |
-| Professor | Health information systems (Technical and tertiary education) | Annual | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
+ ### **Postgraduate Courses**
+| Course        | Duration         | Institution                    |       | Date |
+|---------------|------------------|--------------------------------|-------|------|
+| [Programming in Python](https://github.com/python-unsam/Programacion_en_Python_UNSAM#programaci%C3%B3n-en-python) | 4 months (120 hs) | Universidad de San Martin ([UNSAM](https://www.unsam.edu.ar/)) | Virtual | 2020 |
+| EMBO Practical Course: Bioinformatics and Genome Analyses. | 2 weeks (110 hs) | European Molecular Biology Organization (EMBO) and the Fondazione Edmund Mach ([FEM](https://www.fmach.it/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | June 16 to 30, 2019 |
 | Professor | Informatics (Technical and tertiary education) | 1st | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
 | Invited teacher | Evolutionary and Populational Genomics (post- and undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2018          | 2020  |
 | Teacher | Programming in Python for Biology (workshop for undergraduate students) | 2nd (32hrs) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/))   | 2018          | 2020  |
