@@ -63,7 +63,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
   |Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
   | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
-1 All the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
+[^1]: By April 2022, all the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
 
  ### **Awards**
   | Description                | Awarded by                        | Place                                      | Date |
