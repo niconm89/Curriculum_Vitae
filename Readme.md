@@ -20,12 +20,10 @@
 
 I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to evolutionary biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological questions.
 
-Languages
-
-
-Spanish as a native language.
-English in upper-intermediate level (B2).
-◦ 2021. Taller de Escritura Independiente (Independent Writing Workshop for the
+ ## **Languages**
+ + Spanish as a native language.
+ + English in upper-intermediate level (B2).
+    - 2021. Taller de Escritura Independiente (Independent Writing Workshop for the
 TOEFL exam).
 Duration: 6 classes of 3 hours each.
 ◦ 2021. Taller de Presentaciones Orales (Oral Presentations Workshop).
