@@ -21,7 +21,7 @@
 I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to evolutionary biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological questions.
 
 ## **Education**
-  | Name                                                              | Project title              |    School                    | Start Date | End Date |
+  | Name                                                              | Institution                |    Project title             | Start Date | End Date |
   |-------------------------------------------------------------------|----------------------------|------------------------------|------------|----------|
 | BSc. in Bioinformatics | Facultdad de Ingeniería (FI), Universidad Nacional de Entre Ríos (UNER). Oro Verde, Entre Rios, Argentina.            | Deconvolution of ELISPOT T-cell responses against HIV using immunoinformatic screening methods. |   2008   |   2014   |
 | Ph.D. in Biological Sciences | Facultad de Ciencias Exactas y Naturales (FCEyN), Universidad de Buenos Aires (UBA). Ciudad de Buenos Aires, Argentina. | Genome assembly and comparative analysis of the species D. borborema, D. antonietae y D. koepferae (Drosophila buzzatii cluster, repleta group).  |   2015   |   2020   |
