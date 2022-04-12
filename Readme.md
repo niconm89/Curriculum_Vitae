@@ -14,7 +14,7 @@
   + [Participation in Scientific Projects](https://github.com/niconm89/Curriculum_Vitae#participation-in-funded-scientific-projects2)
   + [Postgraduate Courses](https://github.com/niconm89/Curriculum_Vitae#postgraduate-courses)
   + [Technical Skills](https://github.com/niconm89/Curriculum_Vitae#technical-skills)
-  + [Educational Organizations and Voluntary Work]()
+  + [Educational Organizations and Voluntary Work](https://github.com/niconm89/Curriculum_Vitae#educational-organizations-and-voluntary-work)
   + [Participation in Conferences and Symposia]()
   + [Memberships]() 
 
@@ -158,6 +158,5 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 
 ## **Educational Organizations and Voluntary Work**
   + 2014 – Present. Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org))
-    - Description: groups of students and young researchers in Bioinformatics and Computational Biology.
-    - It depends on the International Society of Computational Biology ([ISCB](https://www.iscb.org/)) Student Council ([SC](https://iscbsc.org/)).
+    - The RSG is a group of students and young researchers in Bioinformatics and Computational Biology, that depends on the International Society of Computational Biology ([ISCB](https://www.iscb.org/)) Student Council ([SC](https://iscbsc.org/).
     - Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016);  Collaborator (2014 – 2015).
