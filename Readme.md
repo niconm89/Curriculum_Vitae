@@ -29,7 +29,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 
   
  ### **Research Scholarships**
-  | Description + Financed by  | Project title                    | Place of Work                              | Start Date| End Date |
+  | Description + Funding  | Project title                    | Place of Work                              | Start Date| End Date |
   |----------------------------|----------------------------------|--------------------------------------------|-----------|----------|
 | Ph.D. scholarship (Type I) - Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | Instituto de Ecología, Genética y Evolución de Buenos Aires ([IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/)) | 2015          | 2018       |
 | Short-term scholarship of DEANN Project “Marie Curie Actions - International Research Staff Exchange Scheme (IRSES)” financed by the European Commision. | Identification and description of transponsable elements families in stressful cactophilic Drosophila genomes. | [Gonzalez Lab](https://www.biologiaevolutiva.org/gonzalez_lab/), Institut de Biologia Evolutiva (IBE), Barcelona, Cataluña, Spain.          | 2016          | 2016       |
