@@ -38,10 +38,10 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Postdoctoral Scholarship - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/) | 2021          | 2024     |
 
  ### **Teaching Experience**
-| Position description | Subject/Course                    | University                              | Start Date| End Date |
+| Position | Subject/Course                    | University                              | Start Date| End Date |
 |-----------|-----------------------------------|-----------------------------------------|-----------|----------|
-| Professor of Bioinformatics | Bioinformatics (undergraduate course) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)) | 2018          | Present  |
-| Short-term scholarship of DEANN Project “Marie Curie Actions - International Research Staff Exchange Scheme (IRSES)” financed by the European Commision. | Identification and description of transponsable elements families in stressful cactophilic Drosophila genomes. | [Gonzalez Lab](https://www.biologiaevolutiva.org/gonzalez_lab/), Institut de Biologia Evolutiva (IBE), Barcelona, Cataluña, Spain.          | 2016          | 2016       |
+| Professor | Bioinformatics (undergraduate course) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)) | 2018          | Present  |
+| Professor | Health information systems (Technical and tertiary education) | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
 | Short-term Internship - Consejo Nacional de Investigaciones Científicas y Técnicas ([CONICET](https://www.conicet.gov.ar/)) and [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Collaboration under the project “Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster”. |  [Matzkin Lab](https://matzkinlab.org/), University of Arizona (UA), Tucson, United States (US)  | 2018          | 2018     |
 | Ph.D. Scholarship (Type II) - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) | 2018          | 2021     |
 | Postdoctoral Scholarship - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the Drosophila buzzatii cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/) | 2021          | 2024     |
