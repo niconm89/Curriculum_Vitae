@@ -21,8 +21,8 @@
 I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to evolutionary biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological questions.
 
 ## **Education**
-  | Name                                                              | Institution                |    Project title             | Start Date | End Date |
-  |-------------------------------------------------------------------|----------------------------------------------------------|------------|----------|
+  | Name                                     | Institution   |    Project title             | Start Date | End Date |
+  |------------------------------------------|---------------|------------------------------|------------|----------|
 | Postdoctoral Studies        | Instituto de Ecología, Genética y Evolución de Buenos Aires ([IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/), UBA-CONICET) and Fundación para el Estudio de Especies Envasivas ([FuEDEI](https://fuedei.org/)). Ciudad de Buenos Aires, Argentina.    | Comparative genomics of cactophilic moths of the genus Cactoblastis.  | 2021          | Present      |
 | Ph.D. in Biological Sciences | Facultad de Ciencias Exactas y Naturales ([FCEyN](https://exactas.uba.ar/)), Universidad de Buenos Aires ([UBA](https://www.uba.ar/)). Ciudad de Buenos Aires, Argentina. | Genome assembly and comparative analysis of the species D. borborema, D. antonietae y D. koepferae (Drosophila buzzatii cluster, repleta group).  |   2015   |   2020   |
 | BSc. in Bioinformatics | Facultdad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/)). Oro Verde, Entre Rios, Argentina.  | Deconvolution of ELISPOT T-cell responses against HIV using immunoinformatic screening methods. |   2008   |   2014   |
