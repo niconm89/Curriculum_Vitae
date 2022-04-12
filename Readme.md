@@ -11,10 +11,10 @@
   
 ### **Social/Scientific Networks**
 
-+ Linkedin: [Nicolás Moreyra](https://www.linkedin.com/in/nicolasmoreyra/)
-+ GitHub: [Nicolás Moreyra](https://github.com/niconm89)
-+ Google Academics: https://scholar.google.com/citations?hl=es&user=2ygu-Z8AAAAJ
-+ ORCID: https://orcid.org/0000-0003-0451-2399
++ [Linkedin](https://www.linkedin.com/in/nicolasmoreyra/)
++ [GitHub](https://github.com/niconm89)
++ [Google Academics](https://scholar.google.com/citations?hl=es&user=2ygu-Z8AAAAJ)
++ [ORCID](https://orcid.org/0000-0003-0451-2399)
 
 ### **About me**
 
