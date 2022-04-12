@@ -1,7 +1,6 @@
 # **Nicolás Nahuel Moreyra**
 
-   #<img src="imgs/photo_myself.jpeg" style="width: 420px; height: 456px; position: center" >
-   ![](imgs/photo_myself.jpeg =100x20)
+   #<img src="imgs/image10.png" style="position: center" >
 
 ## **Personal information**
 
