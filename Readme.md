@@ -15,7 +15,7 @@
   + [Postgraduate Courses](https://github.com/niconm89/Curriculum_Vitae#postgraduate-courses)
   + [Technical Skills](https://github.com/niconm89/Curriculum_Vitae#technical-skills)
   + [Educational Organizations and Voluntary Work](https://github.com/niconm89/Curriculum_Vitae#educational-organizations-and-voluntary-work)
-  + [Participation in Conferences and Symposia]()
+  + [Participation in Conferences and Symposia](https://github.com/niconm89/Curriculum_Vitae#participation-in-conferences-and-symposia)
   + [Memberships]() 
 
 ## **Personal information**
@@ -187,3 +187,5 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   | 3rd Argentinean Conference on Computational Biology and Bioinformatics (3CAB2C). | Attendant | Asociación Argentina de Bioinformática y Biología Computacional ([A2B2C](http://3.13.151.78/XICA2B2C/)) | Oro Verde, Provincia de Entre Ríos, Argentina. | 2012 |
   | 1st Argentinean Conference on Computational Biology and Bioinformatics (CAB2C). | Attendant | Asociación Argentina de Bioinformática y Biología Computacional ([A2B2C](http://3.13.151.78/XICA2B2C/)) | Bernal, Provincia de Buenos Aires, Argentina. | 2010 |
   
+## **Memberships**
+  + 2016 - 2019. International Society of Computational Biology ([ISCB](https://www.iscb.org/)).
