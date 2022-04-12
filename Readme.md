@@ -128,6 +128,17 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | [Human Population Genomics and Diseases](https://www.genevopop.net/) | 4 months (90hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | August 1 to November 16, 2015  |
 | [Introduction to Genomic Data Analysis Using HapMap and 1000 Genomes Projects (4th Edition)](https://www.transmittingscience.com/) | 5 days (40hs) | [Transmitting Science](https://www.transmittingscience.com/)  and the Instituto de Genética Veterinaria ([IGEVET](http://www.igevet.gob.ar/)), [CONICET](https://www.conicet.gov.ar/) | La Plata, Provincia de Buenos Aires, Argentina | August 10 to August 14, 2015 |
 
+ ### **Other courses**
+| Course        | Institution                    | Place |   Date |
+|---------------|--------------------------------|-------|--------|
+| Algorithms for DNA sequencing | Coursera - Johns Hopkins University | Virtual | 2018 |
+| Python for Genomic Data Science | Coursera - Johns Hopkins University | Virtual | 2017 |
+| Command Line Tools for Genomic Data Science | Coursera - Johns Hopkins University | Virtual | 2016 |
+| Introduction to Relational DataBases with MySQL | Workshop - [RSG-Arg](http://www.rsg-argentina.iscbsc.org) | 4th Argentinean Conference on Computational Biology and Bioinformatics (4CAB2C).Bahía Blanca, Provincia de Buenos Aires, Argentina. | 2015 |
+| Web Server programming | Workshop - [RSG-Arg](http://www.rsg-argentina.iscbsc.org) | Fundacion Instituto Leloir ([FIL](https://www.leloir.org.ar/)), Ciudad de Buenos Aires, Argentina. | 2016 |
+| Programming in R | Workshop - [RSG-Arg](http://www.rsg-argentina.iscbsc.org) | 3rd Argentinean Conference on Computational Biology and Bioinformatics (3CAB2C), [FI](http://ingenieria.uner.edu.ar/)-[UNER](https://www.uner.edu.ar/, Oro Verde, Provincia de Entre Ríos, Argentina. | 2012 |
+| Programming in Perl | Workshop - [RSG-Arg](http://www.rsg-argentina.iscbsc.org) | 3rd Argentinean Conference on Computational Biology and Bioinformatics (3CAB2C), [FI](http://ingenieria.uner.edu.ar/)-[UNER](https://www.uner.edu.ar/, Oro Verde, Provincia de Entre Ríos, Argentina. | 2012 |
+
  ## **Technical Skills**
 ### Experince working in omic-related fields:
   + UNIX/Linux systems user
@@ -160,3 +171,6 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   + 2014 – Present. Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org))
     - The RSG is a group of students and young researchers in Bioinformatics and Computational Biology, that depends on the International Society of Computational Biology ([ISCB](https://www.iscb.org/)) Student Council ([SC](https://iscbsc.org/).
     - Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016);  Collaborator (2014 – 2015).
+
+## **Participation in Conferences and Symposia**
+  + 
