@@ -81,12 +81,12 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 [^2]: All grants were funded by the Fondo para la Investigación Científica y Tecnológica ([FONCYT](https://www.argentina.gob.ar/ciencia/agencia/fondo-para-la-investigacion-cientifica-y-tecnologica-foncyt)).
 
  ### **Postgraduate Courses**
-| Course        | Duration         | Institution                    |        Date |
-|---------------|------------------|--------------------------------|-------------|
+| Course        | Duration         | Institution                    | Place |   Date |
+|---------------|------------------|--------------------------------|-------|--------|
 | [Programming in Python](https://github.com/python-unsam/Programacion_en_Python_UNSAM#programaci%C3%B3n-en-python) | 4 months (120 hs) | Universidad de San Martin ([UNSAM](https://www.unsam.edu.ar/)) | Virtual | 2020 |
 | [EMBO Practical Course: Bioinformatics and Genome Analyses](https://meetings.embo.org/event/19-genome-analyses) | 2 weeks (110 hs) | European Molecular Biology Organization (EMBO) and the Fondazione Edmund Mach ([FEM](https://www.fmach.it/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | June 16 to 30, 2019 |
-| [Cladistic Analysis and Molecular Phylogenies](https://sites.google.com/site/teosiste/inicio?authuser=0) | 120hs | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)      | 2020          | Present  |
-| Invited teacher | Evolutionary and Populational Genomics (post- and undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | March 1 to June 16, 2018  |
+| [Cladistic Analysis and Molecular Phylogenies](https://sites.google.com/site/teosiste/inicio?authuser=0) | 4 months (120hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to June 16, 2018  |
+| [Advanced Genomic Analysis: de novo genome assembly.](https://inta.gob.ar/eventos/analisis-genomico-avanzado-ensamblado-de-novo) | 4 days (32 hs) | Instituto Nacional de Tecnología Agropecuaria ([INTA](https://inta.gob.ar/)) and the Earlham Institute ([EI](https://www.earlham.ac.uk/))  | INTA Castelar, William C. Morris, Provincia de Buenos Aires, Argentina | December 18 to 21, 2017 |
 
 
 | Teacher | Programming in Python for Biology (workshop for undergraduate students) | 2nd (32hrs) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/))   | 2018          | 2020  |
