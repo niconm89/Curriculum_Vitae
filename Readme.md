@@ -23,15 +23,10 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  ## **Languages**
  + Spanish as a native language.
  + English in upper-intermediate level (B2).
-    - 2021. Taller de Escritura Independiente (Independent Writing Workshop for the
-TOEFL exam).
-Duration: 6 classes of 3 hours each.
-◦ 2021. Taller de Presentaciones Orales (Oral Presentations Workshop).
-Duration: 2 classes of 2 hours each.
-2014 – 2015. English courses levels 3 to 6 (upper-intermediate).
-Place: Centro de Lenguas de la Universidad Nacional del Litoral (Center of Languages
-of the National University of the Litoral, UNL). Santa Fe, Provincia de Santa Fe,
-Argentina.
+    - Speaking and listening clases. An hour per week (Present).
+    - Taller de Escritura Independiente (Independent Writing Workshop for the TOEFL exam). [Departamento de Idiomas](https://campus.exactas.uba.ar/course/index.php?categoryid=27),[FCEyN](https://exactas.uba.ar/),[UBA](https://www.uba.ar/). Duration: 6 classes of 3 hs, 2021.
+    - Taller de Presentaciones Orales (Oral Presentations Workshop). [Departamento de Idiomas](https://campus.exactas.uba.ar/course/index.php?categoryid=27),[FCEyN](https://exactas.uba.ar/),[UBA](https://www.uba.ar/). Duration: 4 classes of 2 hs, 2021. 
+    - English courses of levels 3 to 7 (upper-intermediate). Place: [Centro de Idiomas de la Universidad Nacional del Litoral](https://www.unl.edu.ar/idiomas/#:~:text=El%20Centro%20de%20Idiomas%20posee,y%20maestr%C3%ADas%20de%20la%20UNL). From March 2014 to March 2015.
 
  ## **Education**
   | Name                                     | Institution   |    Project title             | Start Date | End Date |
