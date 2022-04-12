@@ -173,7 +173,6 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
     - Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016);  Collaborator (2014 – 2015).
 
 ## **Participation in Conferences and Symposia**
-  + ## **Awards**
   | Event                |   Participation |   Organizer     | Place                                      | Date |
   |----------------------|-----------------|-----------------|--------------------------------------------|------|
   | 1st Latin American Congress on Evolution ([CLEVOL](https://play.4id.science/clevol1/)) | Oral presentation: **Moreyra N.**, Ameida F., Hasson E.; Origin of cactophyly and functional genomic analysis of host plant use specialization the *repleta* group (genus *Drosophila*). | Sociedad Argentina de Biología Evolutiva (SABE), Sociedad Chilena de Evolución (SOCEVOL) and Asociación Colombiana de Evolución (COLEVOL) | Virtual Session | 2021 |
