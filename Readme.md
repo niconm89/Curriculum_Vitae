@@ -1,6 +1,6 @@
 # **Nicolás Nahuel Moreyra**
 
-  #<img src="imgs/1photo_myself.jpeg" style="width: 309px; height: 431px; position: center" >
+  <img src="imgs/photo_myself.jpeg" style="width: 309px; height: 431px; position: center" >
 
 ## Index
   + [Personal Information](https://github.com/niconm89/Curriculum_Vitae#personal-information)
