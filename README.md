@@ -21,7 +21,8 @@
 ## **Personal information**
 
 + Date of birth: October 4th, 1989
-+ Nationality: Argentinean
++ Place of birth; Buenos Aires, Argentina
++ Nationality: Argentinian & Croatian
 + E-Mail (Personal): [niconm89@gmail.com](mailto:niconm89@gmail.com)
 + E-Mail (Work): [nmoreyra@ege.fcen.uba.ar](mailto:nmoreyra@ege.fcen.uba.ar)
   
@@ -96,8 +97,8 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   | Student                | Thesis tile                         | Date |
   |------------------------|-------------------------------------|------|
   | Mateo Gallia |  Estudio metagenómico de los microorganismos asociados a la digestión anaerobia de efluentes y de sus interacciones | 2019 |
-  | Clementina Penna | Estudios evolutivos de las proteínas de interacción entre gametas del género Panthera | 2016  |
-  | Nahuel Abel Escobedo | Caracterización de cambios conformacionales en proteínas homoligoméricas | 2013 |
+  | Clementina Penna | Estudios evolutivos de las proteínas de interacción entre gametas del género Panthera | 2019  |
+  | Nahuel Abel Escobedo | Caracterización de cambios conformacionales en proteínas homoligoméricas | 2019 |
 [^1]: By April 2022, all the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
 
  ## **Awards**
