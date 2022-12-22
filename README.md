@@ -21,7 +21,7 @@
 ## **Personal information**
 
 + Date of birth: October 4th, 1989
-+ Place of birth; Buenos Aires, Argentina
++ Place of birth: Buenos Aires, Argentina
 + Nationality: Argentinian & Croatian
 + E-Mail (Personal): [niconm89@gmail.com](mailto:niconm89@gmail.com)
 + E-Mail (Work): [nmoreyra@ege.fcen.uba.ar](mailto:nmoreyra@ege.fcen.uba.ar)
