@@ -21,7 +21,8 @@
 ## **Personal information**
 
 + Date of birth: October 4th, 1989
-+ Nationality: Argentinean
++ Place of birth: Buenos Aires, Argentina
++ Nationality: Argentinian & Croatian
 + E-Mail (Personal): [niconm89@gmail.com](mailto:niconm89@gmail.com)
 + E-Mail (Work): [nmoreyra@ege.fcen.uba.ar](mailto:nmoreyra@ege.fcen.uba.ar)
   
@@ -35,7 +36,7 @@
 
 ### **About me**
 
-I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to evolutionary biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological questions.
+I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to evolutionary biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological and ecological questions. I currently hold a postdoctoral position at [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/). In this project I apply comparative genomic methodologies to study of ecological speciation in cactophilic moths of the genus Cactoblastis.
 
 ### **Aptitudes and abilities**
 
@@ -84,6 +85,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Mentor | Student-to-student mentoring | Annual | Facultad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/))   | 2018          | 2020  |
 
  ## **Publications, preprints and drafts**
+<<<<<<< HEAD
  + Rondón JJ*, Pisarenco VA, Rozas J, **Moreyra NN**, Hurtado J, Hasson E (2022). Evolution of the Odorant-Binding Protein gene family in *Drosophila*. In preparation to be submitted to [Frontiers](https://www.frontiersin.org/research-topics/27610/diptera-chemical-ecology-in-the-genomic-era-from-genes-to-behavior?j=1847727&sfmc_sub=337759798&l=94_HTML&u=48422372&mid=7236711&jb=51).
  + Mensch J*, **Moreyra NN***, Hasson E (2022). Transcriptional responses of immature and mature females acclimated under the same low temperature provides insights into cold tolerance of cactophilic *Drosophila* buzzatii. In preparation to be submitted to [Genes](https://www.mdpi.com/journal/genes/special_issues/Arthropods_Evolution).
  + **Moreyra NN***, Almeida F, Allan C, Frankel N, Matzkin L, Hasson E (2022). Phylogenomics provides insights into the evolution of cactophily and host plant shifts adaptation in *Drosophila*. bioRxiv. [https://doi.org/10.1101/2022.04.29.490106](https://www.biorxiv.org/content/10.1101/2022.04.29.490106v1). In review in Molecular Ecology.
@@ -91,13 +93,22 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  + Shome S*, Parra RG, Fatima N, Monzon AM, Cuypers B, Moosa Y, Coimbra NDR, Assis J, Giner-Delgado C, Dönertaş HM, Cuesta-Astroz Y, Saarunya G, Allali I, Gupta S, Srivastava A, Kalsan M, Valdivia C, J Olguin-Orellana G, Papadimitriou S, Parisi D, Kristensen NP, Rib L, Guebila MB, Bauer E, Zaffaroni G, Bekkar A, Ashano E, Paladin L, Necci M, **Moreyra NN**, Rydén M, Villalobos-Solís J, Papadopoulos N, Rafael C, Karakulak T, Kaya Y, Gladbach Y, Dhanda SK, Šoštarić N, Alex A, DeBlasio D, Rahman F. (2019). Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers. F1000Research, 8, ISCB Comm J-1574. https://doi.org/10.12688/f1000research.20408.1.
  + Fiorella Cravero*, Lionel Uran Landaburu, **Nicolás N. Moreyra**, Emilio Fenoy, Carla L Padilla Franzotti, Esteban Lanzarotti, R. Gonzalo Parra*, Nicolas Palopoli*, Alexander M. Monzon* (2018) 2nd Argentine Symposium of Young Bioinformatics Researchers (2SAJIB) organized by the ISCB-SC RSG-Argentina. PeerJ Preprints 6:e3504v1.
  + Parra RG*, Defelipe LA, Guzovsky AB, Monzon AM, Cravero F, Mancini E, **Moreyra N**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NN, Gonzalez GA, Orts F, Stocchi N, Hasenahuer MA, Teppa E, Zea DJ, Palopoli N. (2016) Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. PeerJ Preprints 4:e2494v1.
+=======
+ + Mensch J\*, **Moreyra NN**\*, Hasson E (2023). Transcriptional responses of immature and mature females acclimated under the same low temperature provides insights into cold tolerance of cactophilic *Drosophila* buzzatii. In preparation to be submitted to [Genes](https://www.mdpi.com/journal/genes/special_issues/Arthropods_Evolution).
+ + **Moreyra NN**\*, Almeida F, Allan C, Frankel N, Matzkin L, Hasson E (2022). Phylogenomics provides insights into the evolution of cactophily and host plant shifts adaptation in *Drosophila*. Molecular Phylogenetics and Evolution. 2023 Jan 1;178:107653.
+ + Rondón JJ\*, **Moreyra NN**, Pisarenco VA, Rozas J, Hurtado J and Hasson E (2022). Evolution of the odorant-binding protein gene family in Drosophila. Front. Ecol. Evol. 10:957247. doi: [10.3389/fevo.2022.957247](https://www.frontiersin.org/articles/10.3389/fevo.2022.957247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=957247)
+ + **Moreyra NN**\*, Mensch J, Hurtado J, Almeida F, Laprida C, Hasson E (2019). What does mitogenomics tell us about the evolutionary history of the *Drosophila buzzatii* cluster (repleta group)? PLoS ONE 14(11): e0220676. https://doi.org/10.1371/journal.pone.0220676.
+ + Shome S\*, Parra RG, Fatima N, Monzon AM, Cuypers B, Moosa Y, Coimbra NDR, Assis J, Giner-Delgado C, Dönertaş HM, Cuesta-Astroz Y, Saarunya G, Allali I, Gupta S, Srivastava A, Kalsan M, Valdivia C, J Olguin-Orellana G, Papadimitriou S, Parisi D, Kristensen NP, Rib L, Guebila MB, Bauer E, Zaffaroni G, Bekkar A, Ashano E, Paladin L, Necci M, **Moreyra NN**, Rydén M, Villalobos-Solís J, Papadopoulos N, Rafael C, Karakulak T, Kaya Y, Gladbach Y, Dhanda SK, Šoštarić N, Alex A, DeBlasio D, Rahman F. (2019). Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers. F1000Research, 8, ISCB Comm J-1574. https://doi.org/10.12688/f1000research.20408.1.
+ + Cravero F\*, Landaburu LU, **Moreyra NN**, Fenoy E, Franzotti CL, Lanzarotti E, Parra RG, Palopoli N, Monzon AM. 2nd Argentine Symposium of Young Bioinformatics Researchers (2SAJIB) organized by the ISCB-SC RSG-Argentina. PeerJ Preprints; 2018 Jan 4. https://doi.org/10.7287/peerj.preprints.3504v2
+ + Parra RG\*, Defelipe LA, Guzovsky AB, Monzón A, Cravero F, Mancini E, **Moreyra NN**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NH. Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. https://peerj.com/preprints/2494v1/
+>>>>>>> 9b0636282602d79217aecfa526f17e1486e9c295
 
  ## **Evaluation[^1]**
   | Student                | Thesis tile                         | Date |
   |------------------------|-------------------------------------|------|
   | Mateo Gallia |  Estudio metagenómico de los microorganismos asociados a la digestión anaerobia de efluentes y de sus interacciones | 2019 |
-  | Clementina Penna | Estudios evolutivos de las proteínas de interacción entre gametas del género Panthera | 2016  |
-  | Nahuel Abel Escobedo | Caracterización de cambios conformacionales en proteínas homoligoméricas | 2013 |
+  | Clementina Penna | Estudios evolutivos de las proteínas de interacción entre gametas del género Panthera | 2019  |
+  | Nahuel Abel Escobedo | Caracterización de cambios conformacionales en proteínas homoligoméricas | 2019 |
 [^1]: By April 2022, all the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
 
  ## **Awards**
