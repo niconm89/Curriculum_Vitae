@@ -79,7 +79,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Professor | Informatics (Technical and tertiary education) | 1st | Instituto de Formación Técnica Superior N° 7 ([IFTS7](https://www.ifts7.com.ar/))        | 2020          | Present  |
 | Professor | Bioinformatics (undergraduate course) | 2nd | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)) | 2018          | 2022  |
 | Invited teacher | Evolutionary and Populational Genomics (post- and undergraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)   | 2018          | 2020  |
-| Teacher | Programming in Python for Biology (workshop for undergraduate students) | 2nd (32hrs) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/))   | 2018          | 2020  |
+| Teacher | Programming in Python for Biology (workshop for undergraduate students) | 2nd (32hrs) | Universidad Favaloro ([UF](https://www.favaloro.edu.ar/))   | 2018          | 2018  |
 | Invited teacher | Human Population Genomics and diseases (postgraduate course) | 1st (90hrs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/)  | 2016          | 2017  |
 | Mentor | Student-to-student mentoring | Annual | Facultad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/))   | 2018          | 2020  |
 
