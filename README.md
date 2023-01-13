@@ -64,7 +64,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   + Differential expresion analysis
   + Sequencing Experimental Design
 
-### Programming Languajes and Frameworks:
+#### Programming Languajes and Frameworks:
   + Python
   + Bash
   + R
