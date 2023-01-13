@@ -48,7 +48,6 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  - Team player and self-sufficient
  - Eagerness to learn and face new challenges
  
-
  ## **Languages**
  + Spanish as a native language.
  + English in advance level (B2-C1).
@@ -93,21 +92,6 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  + Cravero F\*, Landaburu LU, **Moreyra NN**, Fenoy E, Franzotti CL, Lanzarotti E, Parra RG, Palopoli N, Monzon AM. 2nd Argentine Symposium of Young Bioinformatics Researchers (2SAJIB) organized by the ISCB-SC RSG-Argentina. PeerJ Preprints; 2018 Jan 4. [https://doi.org/10.7287/peerj.preprints.3504v2](https://doi.org/10.7287/peerj.preprints.3504v2)
  + Parra RG\*, Defelipe LA, Guzovsky AB, Monzón A, Cravero F, Mancini E, **Moreyra NN**, Padilla Franzotti CL, Revuelta MV, Freiberger MI, Gonzalez NH. Highlights of the 1st Argentine Symposium of Young Bioinformatics Researchers (1SAJIB) organized by the ISCB RSG-Argentina. [https://peerj.com/preprints/2494v1/](https://peerj.com/preprints/2494v1/)
 
- ## **Evaluation[^1]**
-  | Student                | Thesis tile                         | Date |
-  |------------------------|-------------------------------------|------|
-  | Mateo Gallia |  Estudio metagenómico de los microorganismos asociados a la digestión anaerobia de efluentes y de sus interacciones | 2019 |
-  | Clementina Penna | Estudios evolutivos de las proteínas de interacción entre gametas del género Panthera | 2019  |
-  | Nahuel Abel Escobedo | Caracterización de cambios conformacionales en proteínas homoligoméricas | 2019 |
-[^1]: By April 2022, all the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
-
- ## **Awards**
-  | Description                | Awarded by                        | Place                                      | Date |
-  |----------------------------|-----------------------------------|--------------------------------------------|------|
-  | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
-  | Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
-  | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
-
  ## **Participation in Funded Scientific Projects[^2]**
 | Role     | Title         | Type of funding         | Start Date| End Date |
 |----------|---------------|-------------------------|-----------|----------|
@@ -145,7 +129,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  ## **Technical Skills**
 ### Experince working in omic-related fields:
   + UNIX/Linux systems user
-  + Experience working in HCP servers.
+  + Experience working in HCP servers (mostly configured with SLURM).
   + High-throuput sequencing data QC and curation (single-end, pair-ends, mate-pairs and long reads)
   + Repeat library generation and Transposable Element annotation
   + Genome assembly and annotation
@@ -162,27 +146,43 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 ### Programming Languajes and Frameworks:
   + Python
   + Bash
-  + AWK
   + R
   + Perl
+  + AWK
   + C++ (bassic)
   
 ### Other Knowledge:
-  + Collaborative work on GitHub and GitLab
+  + Collaborative work on GitHub and GitLab (begginer)
+
+ ## **Evaluation[^1]**
+  | Student                | Thesis tile                         | Date |
+  |------------------------|-------------------------------------|------|
+  | Mateo Gallia |  Estudio metagenómico de los microorganismos asociados a la digestión anaerobia de efluentes y de sus interacciones | 2019 |
+  | Clementina Penna | Estudios evolutivos de las proteínas de interacción entre gametas del género Panthera | 2019  |
+  | Nahuel Abel Escobedo | Caracterización de cambios conformacionales en proteínas homoligoméricas | 2019 |
+[^1]: By January 2023, all the items correspond to thesis evaluations of students that obtained a BSc. in Biological Sciences from the Universidad Favaloro ([UF](https://www.favaloro.edu.ar/)).
+
+ ## **Awards**
+  | Description                | Awarded by                        | Place                                      | Date |
+  |----------------------------|-----------------------------------|--------------------------------------------|------|
+  | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
+  | Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
+  | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
 
 ## **Educational Organizations and Voluntary Work**
   + 2014 – Present. Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org))
     - The RSG is a group of students and young researchers in Bioinformatics and Computational Biology, that depends on the International Society of Computational Biology ([ISCB](https://www.iscb.org/)) Student Council ([SC](https://iscbsc.org/).
-    - Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016);  Collaborator (2014 – 2015).
+    - Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016 - Present);  Collaborator (2014 – 2015).
 
 ## **Participation in Conferences and Symposia**
   | Event                |   Participation |   Organizer     | Place                                      | Date |
   |----------------------|-----------------|-----------------|--------------------------------------------|------|
+  | Biodiversity Genomics 2022 ([BG2022](https://virtual.venue-av.com/e/bg2022)) | Attendant | Biodiversity Genomics 2022 | Virtual Session | 2022 |
+  | 1st-7th Argentine Symposium of Young Researchers in Bioinformatics (SAJIB). | Organizer | Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org)) | Virtual Session | 2016-2022 |
   | 1st Latin American Congress on Evolution ([CLEVOL](https://play.4id.science/clevol1/)) | Oral presentation: **Moreyra N.**, Ameida F., Hasson E.; Origin of cactophyly and functional genomic analysis of host plant use specialization the *repleta* group (genus *Drosophila*). | Sociedad Argentina de Biología Evolutiva (SABE), Sociedad Chilena de Evolución (SOCEVOL) and Asociación Colombiana de Evolución (COLEVOL) | Virtual Session | 2021 |
-  | 1st-6th Argentine Symposium of Young Researchers in Bioinformatics (SAJIB). | Organizer | Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org)) | Virtual Session | 2016-2021 |
   | II Reunión Argentina de Biología Evolutiva. | Oral presentation: **Moreyra N.**, Mensch J., Hurtado J., Ameida F., Laprida C., Hasson E.; What does mitogenomics tell us about the evolutionary history of the *Drosophila buzzatii*? | Sociedad Argentina de Biología Evolutiva (SABE) | [FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | 2019 |
-  |EMBO Practical Course: Bioinformatics and Genome Analyses. | Poster: *Moreyra NN.*, Mensch J., Hurtado J., Hasson E.; Tracing the evolutionary history of the *Drosophila buzzatii* cluster. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | 2019 |
-  |International Conference “Evolution and Ecology: The Cactophilic *Drosophila* Model System” | Poster: *Moreyra NN.**, Mensch J., Hurtado J., Hasson E.; Comparative mitogenomic analysis of the *Drosophila buzzatii* cluster. | [Journal of Heredity](https://academic.oup.com/jhered) | El Pedregal Nature Logde and Resort, Los Alamos, Sonora, Mexico. | 2018 |
+  | EMBO Practical Course: Bioinformatics and Genome Analyses. | Poster: *Moreyra NN.*, Mensch J., Hurtado J., Hasson E.; Tracing the evolutionary history of the *Drosophila buzzatii* cluster. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | 2019 |
+  | International Conference “Evolution and Ecology: The Cactophilic *Drosophila* Model System” | Poster: *Moreyra NN.**, Mensch J., Hurtado J., Hasson E.; Comparative mitogenomic analysis of the *Drosophila buzzatii* cluster. | [Journal of Heredity](https://academic.oup.com/jhered) | El Pedregal Nature Logde and Resort, Los Alamos, Sonora, Mexico. | 2018 |
   | 15th European Conference on Computational Biology ([ECCB2016](https://www.ebi.ac.uk/eccb/2016/)). | Poster: **Moreyra NN.**, Mensch J., Hurtado J., Hasson E. Differential expression analysis of cold tolerance adaptation by RNA-seq de novo approach. | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
   | 6th Argentinian Conference on Bioinformatics and Computational Biology (6CAB2C). | Poster: **Moreyra NN.**, Mensch J., Hurtado J., Hasson E. Initial differential expression analysis of diapause in Argentinean *D. buzzatii* by RNA-seq de novo approach. | Asociación Argentina de Bioinformática y Biología Computacional ([A2B2C](http://3.13.151.78/XICA2B2C/)) | Bahía Blanca, Provincia de Buenos Aires, Argentina. | 2015 |
   | VI Latin American Conference on Biomedical Engineering (CLAIB). | Oral Presentation: **Moreyra NN.**, Brunner M., Metz S., Pais C. Cellular automata model approach for the study of the impact of social relationships on eating habits of adolescents of school age.| Consejo Regional de Ingeniería Biomédica para América Latina | Paraná, Entre Ríos, Argentina. | 2014 |
