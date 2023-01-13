@@ -1,6 +1,6 @@
 # **Nicolás Nahuel Moreyra**
 
-  <img src="imgs/photo_myself2.jpeg" style="width: 309px; height: 431px; position: center" >
+  <img src="imgs/photo_myself2.jpeg" style="width: 464px; height: 347px; position: center" >
 
 ## Index
   + [Personal Information](https://github.com/niconm89/Curriculum_Vitae#personal-information)
@@ -87,7 +87,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  ## **Publications, preprints and drafts**
  + Mensch J\*, **Moreyra NN**\*, Hasson E. Transcriptional responses of immature and mature females acclimated under the same low temperature provides insights into cold tolerance of cactophilic *Drosophila buzzatii*. In preparation to be submitted to [Genes](https://www.mdpi.com/journal/genes/special_issues/Arthropods_Evolution).
  + **Moreyra NN**\*, Almeida FC, Allan C, Frankel N, Matzkin LM, Hasson E (2023). Phylogenomics provides insights into the evolution of cactophily and host plant shifts in Drosophila. Molecular Phylogenetics and Evolution. 2023 Jan 1;178:107653. [https://doi.org/10.1016/j.ympev.2022.107653](https://doi.org/10.1016/j.ympev.2022.107653)
- + Rondon JJ\*, **Moreyra NN**, Pisarenco VA, Rozas J, Hurtado J, Hasson E (2023). Evolution of the odorant-binding protein gene family in Drosophila. Frontiers in Ecology and Evolution. 2022 Aug 9:778. [https://doi.org/10.3389/fevo.2022.957247](https://doi.org/10.3389/fevo.2022.957247)
+ + Rondon JJ\*, **Moreyra NN**, Pisarenco VA, Rozas J, Hurtado J, Hasson E (2022). Evolution of the odorant-binding protein gene family in Drosophila. Frontiers in Ecology and Evolution. 2022 Aug 9:778. [https://doi.org/10.3389/fevo.2022.957247](https://doi.org/10.3389/fevo.2022.957247)
  + **Moreyra NN**\*, Mensch J, Hurtado J, Almeida F, Laprida C, Hasson E (2019). What does mitogenomics tell us about the evolutionary history of the *Drosophila buzzatii* cluster (repleta group)? PLoS ONE 14(11): e0220676. [https://doi.org/10.1371/journal.pone.0220676](https://doi.org/10.1371/journal.pone.0220676)
  + Shome S\*, Parra RG, Fatima N, Monzon AM, Cuypers B, Moosa Y, Coimbra NDR, Assis J, Giner-Delgado C, Dönertaş HM, Cuesta-Astroz Y, Saarunya G, Allali I, Gupta S, Srivastava A, Kalsan M, Valdivia C, J Olguin-Orellana G, Papadimitriou S, Parisi D, Kristensen NP, Rib L, Guebila MB, Bauer E, Zaffaroni G, Bekkar A, Ashano E, Paladin L, Necci M, **Moreyra NN**, Rydén M, Villalobos-Solís J, Papadopoulos N, Rafael C, Karakulak T, Kaya Y, Gladbach Y, Dhanda SK, Šoštarić N, Alex A, DeBlasio D, Rahman F. (2019). Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers. F1000Research, 8, ISCB Comm J-1574. https://doi.org/10.12688/f1000research.20408.1.
  + Cravero F\*, Landaburu LU, **Moreyra NN**, Fenoy E, Franzotti CL, Lanzarotti E, Parra RG, Palopoli N, Monzon AM. 2nd Argentine Symposium of Young Bioinformatics Researchers (2SAJIB) organized by the ISCB-SC RSG-Argentina. PeerJ Preprints; 2018 Jan 4. [https://doi.org/10.7287/peerj.preprints.3504v2](https://doi.org/10.7287/peerj.preprints.3504v2)
@@ -105,7 +105,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   | Description                | Awarded by                        | Place                                      | Date |
   |----------------------------|-----------------------------------|--------------------------------------------|------|
   | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
-  |Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
+  | Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
   | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
 
  ## **Participation in Funded Scientific Projects[^2]**
@@ -119,6 +119,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  ## **Postgraduate Courses**
 | Course        | Duration         | Institution                    | Place |   Date |
 |---------------|------------------|--------------------------------|-------|--------|
+| [Introduction to ‘omics Research](https://catalyst.harvard.edu/courses/omics-intro/) | 6 months (120 hs) |  [Harvard Catalyst](https://catalyst.harvard.edu/) | Virtual | 2020 |
 | [Programming in Python](https://github.com/python-unsam/Programacion_en_Python_UNSAM#programaci%C3%B3n-en-python) | 4 months (120 hs) | Universidad de San Martin ([UNSAM](https://www.unsam.edu.ar/)) | Virtual | 2020 |
 | [EMBO Practical Course: Bioinformatics and Genome Analyses](https://meetings.embo.org/event/19-genome-analyses) | 2 weeks (110 hs) | European Molecular Biology Organization (EMBO) and the Fondazione Edmund Mach ([FEM](https://www.fmach.it/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | June 16 to 30, 2019 |
 | [Cladistic Analysis and Molecular Phylogenies](https://sites.google.com/site/teosiste/inicio?authuser=0) | 4 months (120hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to June 16, 2018  |
