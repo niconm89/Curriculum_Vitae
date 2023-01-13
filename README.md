@@ -47,6 +47,29 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  - Pro-active
  - Team player and self-sufficient
  - Eagerness to learn and face new challenges
+
+### **Technical Skills**
+#### Experince working in omic-related fields:
+  + UNIX/Linux systems user
+  + Experience working in HCP servers (mostly configured with SLURM).
+  + High-throuput sequencing data QC and curation (single-end, pair-ends, mate-pairs and long reads)
+  + Genome assembly and annotation
+  + Gene annotation curation (e.g. Apollo)
+  + Orthology search/prediction
+  + Management of genomic files such as gff, fasta, bed and related formats
+  + Phylogenomics: phylogeny reconstruction and divergence time estimation
+  + Molecular evolution analysis
+  + Repeat library generation and Transposable Element annotation
+  + Transcriptome assembly
+  + Differential expresion analysis
+  + Sequencing Experimental Design
+
+### Programming Languajes and Frameworks:
+  + Python
+  + Bash
+  + R
+  + Perl
+  + Collaborative work on GitHub and GitLab
  
  ## **Languages**
  + Spanish as a native language.
@@ -103,7 +126,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  ## **Postgraduate Courses**
 | Course        | Duration         | Institution                    | Place |   Date |
 |---------------|------------------|--------------------------------|-------|--------|
-| [Introduction to ‘omics Research](https://catalyst.harvard.edu/courses/omics-intro/) | 6 months (120 hs) |  [Harvard Catalyst](https://catalyst.harvard.edu/) | Virtual | 2020 |
+| [Introduction to ‘omics Research](https://catalyst.harvard.edu/courses/omics-intro/) | 6 months |  [Harvard Catalyst](https://catalyst.harvard.edu/) | Virtual | 2020 |
 | [Programming in Python](https://github.com/python-unsam/Programacion_en_Python_UNSAM#programaci%C3%B3n-en-python) | 4 months (120 hs) | Universidad de San Martin ([UNSAM](https://www.unsam.edu.ar/)) | Virtual | 2020 |
 | [EMBO Practical Course: Bioinformatics and Genome Analyses](https://meetings.embo.org/event/19-genome-analyses) | 2 weeks (110 hs) | European Molecular Biology Organization (EMBO) and the Fondazione Edmund Mach ([FEM](https://www.fmach.it/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | June 16 to 30, 2019 |
 | [Cladistic Analysis and Molecular Phylogenies](https://sites.google.com/site/teosiste/inicio?authuser=0) | 4 months (120hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to June 16, 2018  |
@@ -126,34 +149,6 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Programming in R | Workshop - [RSG-Arg](http://www.rsg-argentina.iscbsc.org) | 3rd Argentinean Conference on Computational Biology and Bioinformatics (3CAB2C), [FI](http://ingenieria.uner.edu.ar/)-[UNER](https://www.uner.edu.ar/, Oro Verde, Provincia de Entre Ríos, Argentina. | 2012 |
 | Programming in Perl | Workshop - [RSG-Arg](http://www.rsg-argentina.iscbsc.org) | 3rd Argentinean Conference on Computational Biology and Bioinformatics (3CAB2C), [FI](http://ingenieria.uner.edu.ar/)-[UNER](https://www.uner.edu.ar/, Oro Verde, Provincia de Entre Ríos, Argentina. | 2012 |
 
- ## **Technical Skills**
-### Experince working in omic-related fields:
-  + UNIX/Linux systems user
-  + Experience working in HCP servers (mostly configured with SLURM).
-  + High-throuput sequencing data QC and curation (single-end, pair-ends, mate-pairs and long reads)
-  + Repeat library generation and Transposable Element annotation
-  + Genome assembly and annotation
-  + Gene annotation curation (e.g. Apollo)
-  + Orthology search/prediction
-  + Management of genomic files such as gff, fasta, bed and related formats
-  + Phylogenomics: phylogeny reconstruction and divergence time estimation
-  + Molecular evolution analysis
-  + Transcriptome assembly
-  + Differential expresion analysis
-  + Sequencing Experimental Design
-  + Metagenomics (beginner)
-
-### Programming Languajes and Frameworks:
-  + Python
-  + Bash
-  + R
-  + Perl
-  + AWK
-  + C++ (bassic)
-  
-### Other Knowledge:
-  + Collaborative work on GitHub and GitLab (begginer)
-
  ## **Evaluation[^1]**
   | Student                | Thesis tile                         | Date |
   |------------------------|-------------------------------------|------|
@@ -168,11 +163,6 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   | Travel Fellowship to attend to the EMBO Practical Course “Bioinformatics and Genome Analyses”. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) |  Fondazione Edmund Mach ([FEM](https://www.fmach.it/)), San Michelle all'Adige, Trento, Italy. | 2019 |
   | Travel Fellowship Award to attend to the [ECCB2016](https://www.ebi.ac.uk/eccb/2016/). | European Conference on Computational Biology ([ECCB](https://www.ebi.ac.uk/eccb/)) | The Hague, Netherlands. | 2016  |
   | Fellowship Award “Jóvenes Profesionales TICs 2013”. | [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Oro Verde, Entre Ríos, Argentina  | 2013 |
-
-## **Educational Organizations and Voluntary Work**
-  + 2014 – Present. Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org))
-    - The RSG is a group of students and young researchers in Bioinformatics and Computational Biology, that depends on the International Society of Computational Biology ([ISCB](https://www.iscb.org/)) Student Council ([SC](https://iscbsc.org/).
-    - Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016 - Present);  Collaborator (2014 – 2015).
 
 ## **Participation in Conferences and Symposia**
   | Event                |   Participation |   Organizer     | Place                                      | Date |
@@ -189,6 +179,11 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   | IV Argentinean Conference on Computational Biology and Bioinformatics (4CAB2C). | Poster: **Moreyra NN.**, Nielsen M. Deconvoluting T cell HIV ELISPOT responses using immunoinformatics screening methods. | Asociación Argentina de Bioinformática y Biología Computacional ([A2B2C](http://3.13.151.78/XICA2B2C/)) | Rosario, Provincia de Santa Fe, Argentina. | 2013 |
   | 3rd Argentinean Conference on Computational Biology and Bioinformatics (3CAB2C). | Attendant | Asociación Argentina de Bioinformática y Biología Computacional ([A2B2C](http://3.13.151.78/XICA2B2C/)) | Oro Verde, Provincia de Entre Ríos, Argentina. | 2012 |
   | 1st Argentinean Conference on Computational Biology and Bioinformatics (CAB2C). | Attendant | Asociación Argentina de Bioinformática y Biología Computacional ([A2B2C](http://3.13.151.78/XICA2B2C/)) | Bernal, Provincia de Buenos Aires, Argentina. | 2010 |
-  
+
+## **Educational Organizations and Voluntary Work**
+  + 2014 – Present. Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org))
+    - The RSG is a group of students and young researchers in Bioinformatics and Computational Biology, that depends on the International Society of Computational Biology ([ISCB](https://www.iscb.org/)) Student Council ([SC](https://iscbsc.org/).
+    - Roles: Academic Advisor (2019 – Present); President (2018 – 2019); Secretary (2017); Financial Director (2016 - Present);  Collaborator (2014 – 2015).
+
 ## **Memberships**
   + 2016 - 2019. International Society of Computational Biology ([ISCB](https://www.iscb.org/)).
