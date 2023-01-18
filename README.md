@@ -61,10 +61,10 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   + Molecular evolution analysis
   + Repeat library generation and Transposable Element annotation
   + Transcriptome assembly
-  + Differential expresion analysis
+  + Differential expression analysis
   + Sequencing Experimental Design
 
-#### Programming Languajes and Frameworks:
+#### Programming and Frameworks:
   + Python
   + Bash
   + R
