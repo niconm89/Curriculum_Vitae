@@ -49,7 +49,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  - Eagerness to learn and face new challenges
 
 ### **Technical Skills**
-#### Experince working in omic-related fields:
+#### Experience working in omic-related fields:
   + UNIX/Linux systems user
   + Experience working in HCP servers (mostly configured with SLURM).
   + High-throuput sequencing data QC and curation (single-end, pair-ends, mate-pairs and long reads)
