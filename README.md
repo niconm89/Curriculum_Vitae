@@ -85,6 +85,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 | Mentor | Student-to-student mentoring | Annual | Facultad de Ingeniería ([FI](http://ingenieria.uner.edu.ar/)), Universidad Nacional de Entre Ríos ([UNER](https://www.uner.edu.ar/))   | 2018          | 2020  |
 
  ## **Publications, preprints and drafts**
+ + Hasson E\*, **Moreyra NN** (2023). Moscas y cactus: un sistema-modelo para el estudio del papel de los saltos de planta hospedadora en la diversificación. eVOLUCION, Boletín de la SESBE Vol. 17(1) Marzo 2023.
  + Mensch J\*, **Moreyra NN**\*, Hasson E (2023). Transcriptional responses of immature and mature females acclimated under the same low temperature provides insights into cold tolerance of cactophilic *Drosophila* buzzatii. In preparation to be submitted to [Genes](https://www.mdpi.com/journal/genes/special_issues/Arthropods_Evolution).
  + **Moreyra NN**\*, Almeida F, Allan C, Frankel N, Matzkin L, Hasson E (2022). Phylogenomics provides insights into the evolution of cactophily and host plant shifts adaptation in *Drosophila*. Molecular Phylogenetics and Evolution. 2023 Jan 1;178:107653.
  + Rondón JJ\*, **Moreyra NN**, Pisarenco VA, Rozas J, Hurtado J and Hasson E (2022). Evolution of the odorant-binding protein gene family in Drosophila. Front. Ecol. Evol. 10:957247. doi: [10.3389/fevo.2022.957247](https://www.frontiersin.org/articles/10.3389/fevo.2022.957247/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Ecology_and_Evolution&id=957247)
@@ -119,6 +120,7 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
  ## **Postgraduate Courses**
 | Course        | Duration         | Institution                    | Place |   Date |
 |---------------|------------------|--------------------------------|-------|--------|
+| [Introduction to ‘omics Research](https://catalyst.harvard.edu/courses/omics-intro/) | 6 months | [Harvard Catalyst](https://catalyst.harvard.edu/) | Virtual | 2020 |
 | [Programming in Python](https://github.com/python-unsam/Programacion_en_Python_UNSAM#programaci%C3%B3n-en-python) | 4 months (120 hs) | Universidad de San Martin ([UNSAM](https://www.unsam.edu.ar/)) | Virtual | 2020 |
 | [EMBO Practical Course: Bioinformatics and Genome Analyses](https://meetings.embo.org/event/19-genome-analyses) | 2 weeks (110 hs) | European Molecular Biology Organization (EMBO) and the Fondazione Edmund Mach ([FEM](https://www.fmach.it/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | June 16 to 30, 2019 |
 | [Cladistic Analysis and Molecular Phylogenies](https://sites.google.com/site/teosiste/inicio?authuser=0) | 4 months (120hs) | Departamento de Ecología, Genética y Evolución ([EGE](https://www.ege.fcen.uba.ar/home/)), ([FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | Ciudad de Buenos Aires, Argentina | March 1 to June 16, 2018  |
@@ -156,13 +158,12 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
   + Transcriptome assembly
   + Differential expresion analysis
   + Sequencing Experimental Design
-  + Metagenomics (beginner)
 
 ### Programming Languajes and Frameworks:
   + Python
   + Bash
-  + AWK
   + R
+  + AWK
   + Perl
   + C++ (bassic)
   
@@ -177,8 +178,9 @@ I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to e
 ## **Participation in Conferences and Symposia**
   | Event                |   Participation |   Organizer     | Place                                      | Date |
   |----------------------|-----------------|-----------------|--------------------------------------------|------|
+  | Biodiversity Genomics 2022  Conference (BG2022) | Attendance | BG2022 | Virtual Session | 2022 |
+  | 1st-7th Argentine Symposium of Young Researchers in Bioinformatics (SAJIB). | Organizer | Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org)) | Virtual Session | 2016-2022 |
   | 1st Latin American Congress on Evolution ([CLEVOL](https://play.4id.science/clevol1/)) | Oral presentation: **Moreyra N.**, Ameida F., Hasson E.; Origin of cactophyly and functional genomic analysis of host plant use specialization the *repleta* group (genus *Drosophila*). | Sociedad Argentina de Biología Evolutiva (SABE), Sociedad Chilena de Evolución (SOCEVOL) and Asociación Colombiana de Evolución (COLEVOL) | Virtual Session | 2021 |
-  | 1st-6th Argentine Symposium of Young Researchers in Bioinformatics (SAJIB). | Organizer | Regional Student Group Argentina ([RSG-Arg](http://www.rsg-argentina.iscbsc.org)) | Virtual Session | 2016-2021 |
   | II Reunión Argentina de Biología Evolutiva. | Oral presentation: **Moreyra N.**, Mensch J., Hurtado J., Ameida F., Laprida C., Hasson E.; What does mitogenomics tell us about the evolutionary history of the *Drosophila buzzatii*? | Sociedad Argentina de Biología Evolutiva (SABE) | [FCEyN](https://exactas.uba.ar/)-[UBA](https://www.uba.ar/) | 2019 |
   |EMBO Practical Course: Bioinformatics and Genome Analyses. | Poster: *Moreyra NN.*, Mensch J., Hurtado J., Hasson E.; Tracing the evolutionary history of the *Drosophila buzzatii* cluster. | European Molecular Biology Organization ([EMBO](https://www.embo.org/)) | [FEM](https://www.fmach.it/), San Michelle all'Adige, Italy | 2019 |
   |International Conference “Evolution and Ecology: The Cactophilic *Drosophila* Model System” | Poster: *Moreyra NN.**, Mensch J., Hurtado J., Hasson E.; Comparative mitogenomic analysis of the *Drosophila buzzatii* cluster. | [Journal of Heredity](https://academic.oup.com/jhered) | El Pedregal Nature Logde and Resort, Los Alamos, Sonora, Mexico. | 2018 |
