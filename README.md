@@ -36,7 +36,7 @@
 
 ### **About me**
 
-I have a BSc. in Bioinformatics and a Ph.D. in Biological Sciences oriented to evolutionary biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological and ecological questions. I currently hold a postdoctoral position at [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/). In this project I apply comparative genomic methodologies to study of ecological speciation in cactophilic moths of the genus Cactoblastis.
+I have a BSc. in Bioinformatics and a Ph.D. in Evolutionary Biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological and ecological questions. I currently hold a postdoctoral position at [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/). In this project I apply comparative genomic methodologies to investigate ecological speciation in cactophilic moths of the genus Cactoblastis.
 
 ### **Aptitudes and abilities**
 
