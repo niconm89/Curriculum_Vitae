@@ -38,17 +38,6 @@
 
 I have a BSc. in Bioinformatics and a Ph.D. in Evolutionary Biology. I am passionate about next generation sequencing technologies, omic sciences and programming to answer biological and ecological questions. I currently hold a postdoctoral position at [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/). In this project I apply comparative genomic methodologies to investigate ecological speciation in cactophilic moths of the genus Cactoblastis.
 
-### **Aptitudes and abilities**
-
- - Empathic and sensitive
- - Sociable and Communicative
- - Flexible (versatility)
- - Tenacious, determined and dedicated
- - Pro-active
- - Team player and self-sufficient
- - Eagerness to learn and face new challenges
- 
-
  ## **Languages**
  + Spanish as a native language.
  + English in upper-intermediate level (B2).
@@ -72,6 +61,11 @@ I have a BSc. in Bioinformatics and a Ph.D. in Evolutionary Biology. I am passio
 | Short-term Internship - Consejo Nacional de Investigaciones Científicas y Técnicas ([CONICET](https://www.conicet.gov.ar/)) and [ANPCyT](https://www.argentina.gob.ar/ciencia/agencia) | Collaboration under the project “Genome assembly of four South American cactophilic species belonging the *Drosophila buzzatii* cluster”. |  [Matzkin Lab](https://matzkinlab.org/), University of Arizona (UA), Tucson, United States (US)  | 2018          | 2018     |
 | Ph.D. Scholarship (Type II) - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the *Drosophila buzzatii* cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) | 2018          | 2021     |
 | Postdoctoral Scholarship - [CONICET](https://www.conicet.gov.ar/) | Genome assembly of four South American cactophilic species belonging the *Drosophila buzzatii* cluster | [IEGEBA](https://www.ege.fcen.uba.ar/institucional/iegeba/) and [FuEDEI](https://fuedei.org/) | 2021          | 2024     |
+
+ ## **Mentoring**
+| Position | Student       | Studies         | Thesis       |  Institution                  | Start Date| End Date  |
+|----------|---------------|-----------------|--------------|-------------------------------|-----------|-----------|
+| Director | Ailin Glagovsky | BSc. in Biotechnology | Evolutionary analysis of the alcohol dehydrogenase protein family in the _Drosophila buzzatii_ cluster (_repleta_ group). | Facultad de Bioquímica, Química y Farmacia ([FBQF](https://www.fbqf.unt.edu.ar/)), Universidad Nacional de Tucumán ([UNT](https://www.unt.edu.ar/)) | 2022          | Present  |
 
  ## **Teaching Experience**
 | Position | Course        | Semester         | Institution                           | Start Date| End Date |
